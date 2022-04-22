@@ -2,23 +2,24 @@
 	"GuideData": {
 
 		"AdsController": {
-			"NetworkAds": "facebook",
+			"NetworkAds": "admob",
 
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
 			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
 			"BannerFacebook": "IMG_16_9_APP_INSTALL#540355099982459_540356136649022",
 			"InterstitialFacebook": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1106688919711000_1106690623044163",
+			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
 
-            "AppkeyAppodeals": "540355099982459",
+                        "AppkeyAppodeals": "540355099982459",
 
-            "Cpa":"true",
-            "ImageUrl":"<a href="https://i.ibb.co/R6w5CB2/stars.png",
+                        "Cpa":"true",
+                        "ImageUrl":"https://i.ibb.co/qjdPxmZ/click-here-button-gif.gif",
 
-            "LinkCpa":"https://cpabuild.com",
-
-            "watchNow":"true",
-            "Rating":"true"
+                        "LinkCpa":"https://cpabuild.com/",
+                        "watchNow":"true",
+                        "Rating":"true"
 
 		}
 
