@@ -1,25 +1,24 @@
- {
-	GuideData {
+{
+	"GuideData": {
 
-		AdsController {
-			NetworkAds admob,
+		"AdsController": {
+			"NetworkAds": "facebook",
 
-			BannerAdmob ca-app-pub-39402560999425446300978111,
-			InterstitialAdmob ca-app-pub-39402560999425441033173712,
-			NativeAdmob ca-app-pub-39402560999425442247696110,
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
 
-			BannerFacebook IMG_16_9_APP_INSTALL#540355099982459_540356136649022,
-			InterstitialFacebook CAROUSEL_IMG_SQUARE_APP_INSTALL#1106688919711000_1106690623044163,
-			NativeFacebook IMG_16_9_APP_INSTALL#540355099982459_694708854547082,
+			"BannerFacebook": "IMG_16_9_APP_INSTALL#540355099982459_540356136649022",
+			"InterstitialFacebook": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1106688919711000_1106690623044163",
 
-                        AppkeyAppodeals 540355099982459,
+            "AppkeyAppodeals": "540355099982459",
 
-                        Cpatrue,
-                        ImageUrlhttpsi.imgur.comoWEjQGy.gif,
+            "Cpa":"false",
+            "ImageUrl":"https://i.imgur.com/3awNukl.jpeg",
 
-                        LinkCpahttpscpabuild.com,
-                        watchNowtrue,
-                        Ratingtrue
+            "LinkCpa":"https://cpabuild.com",
+
+            "watchNow":"false",
+            "Rating":"false"
 
 		}
 
